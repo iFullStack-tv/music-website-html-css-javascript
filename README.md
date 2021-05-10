@@ -1,9 +1,9 @@
 <h1 align="center">Music Website usando HTML5, CSS3 & JavaScript</h1>
 
-<p>Neste repositório criamos um website com reprodutor de mp3 em html5, css3 & javascript com <a href="https://youtu.be/gKtsfnJ_jSU">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
+<p>Neste repositório criamos um website com reprodutor de mp3 em html5, css3 & javascript com <a href="https://youtu.be/IfL3lyChZ9k">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
-<a href="https://ifullstack-tv.github.io/responsive-website-design-html5-css3/">Demo</a>
-<a href="https://ifullstack-tv.github.io/responsive-website-design-html5-css3/"><img src="https://github.com/iFullStack-tv/music-website-html-css-javascript/blob/main/demo.jpg" width="100%"></a>
+<a href="https://ifullstack-tv.github.io/music-website-html-css-javascript/">Demo</a>
+<a href="https://ifullstack-tv.github.io/music-website-html-css-javascript/"><img src="https://github.com/iFullStack-tv/music-website-html-css-javascript/blob/main/demo.jpg" width="100%"></a>
 
 
 <div align="center">
